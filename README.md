@@ -1,6 +1,6 @@
 ## **AUTOTWEAK**
 
-**¡Primer script en español!**
+**Primer script en espanol**
 
 my first script written entirely in Spanish.
 
